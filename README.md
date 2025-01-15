@@ -1,1 +1,1 @@
-# News-Aggretor
+# News-Aggregetor
